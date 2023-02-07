@@ -1,7 +1,7 @@
 ﻿blinker==1.4
 cffi==1.14.1
 click==7.1.2
-cryptography==3.0
+cryptography==39.0.1
 dnspython==2.0.0
 email-validator==1.1.1
 Flask==1.1.2
